@@ -1,6 +1,6 @@
 # codight
 
-hello 
-i am P'lezanne HAHAHH OMG
+sawasdee ka
+i am P'zanne HAHAHH OMG
 
 
