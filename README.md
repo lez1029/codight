@@ -2,6 +2,9 @@
 hello 
 i am lezanne
 
+my code is as shown below ;
+
+
 print("Title of program: Personality test")
 print()
 print("Welcome to my little quiz! Please answer the following questions truthfully and we'll analyse your personality for you!")
